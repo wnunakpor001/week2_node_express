@@ -189,4 +189,4 @@ app.use(express.static(path.join(__dirname, "public")));
 
 **Wisdom Nunakpor**
 
-Aspiring Backend Developer focused on JavaScript, APIs, Cybersecurity, and DevOps.
+Aspiring Backend Developer focused on JavaScript, APIs, Data Analytics, and DevOps.
